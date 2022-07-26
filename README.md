@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://sixz1.github.io/Instagram-dio/#" target="_blank">
+    <img src="https://github.com/Sixz1/Instagram-dio/blob/main/capa.png" alt="Interface Instagram"> 
+  </a>
+  <br/>
+
 <h1>Portuguese</h1>
 
   Neste projeto eu recriei a interface de login.
